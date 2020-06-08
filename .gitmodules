@@ -1,0 +1,3 @@
+[submodule "VerbStub_Source"]
+	path = VerbStub_Source
+	url = https://github.com/fewtarius/VerbStub.git
