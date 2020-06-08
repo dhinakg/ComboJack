@@ -32,6 +32,7 @@
 #include <semaphore.h>
 #include <IOKit/IOMessage.h>
 #include <IOKit/pwr_mgt/IOPMLib.h>
+#include <inttypes.h>
 
 #include "PCI.h"
 //#include "Tables.h"
